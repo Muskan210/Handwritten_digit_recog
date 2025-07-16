@@ -1,5 +1,5 @@
 body{
-  background-color: rgb(250, 225, 215);
+  background-color: rgb(245, 202, 233);
 }
 
 /* Ripple effect */
@@ -26,14 +26,14 @@ body{
     text-transform: uppercase;
     cursor: pointer;
     color: white;
-    background-color: #c85bf7;
+    background-color: #FFDB58;
     box-shadow: 0 0 4px #999;
     outline: none;
   }
   
   /* Span style */
 #text {
-    color: #64af4d;
+    color: ##080808;
 }
 
 /* Canvas style */
@@ -49,7 +49,7 @@ body{
 }
 
 body{
-    font-family: sans-serif;
+    font-family:cursive;
 }
 
 #side{
