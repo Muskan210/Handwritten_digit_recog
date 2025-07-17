@@ -1,4 +1,4 @@
-# Handwritten-Digit-Recognition-CNN-Flask-App
+# Handwritten-Digit-Recognition
 
 Handwritten Digit Recognition — CNN + Flask
 
