@@ -1,6 +1,6 @@
 # Handwritten-Digit-Recognition
 
-Handwritten Digit Recognition — CNN + Flask
+Handwritten Digit Recognition
 
 This project demonstrates a Convolutional Neural Network (CNN) built using PyTorch, trained on the MNIST dataset, to recognize handwritten digits (0–9). The trained model is deployed as a simple **Flask web app** that lets users upload or draw digits for prediction.
 
