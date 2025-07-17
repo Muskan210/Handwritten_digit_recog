@@ -22,7 +22,7 @@ Project Goal
 The main objective is to:
 - Build a CNN that accurately classifies handwritten digit images.
 - Integrate the model into a **Flask web application** for easy interaction.
-- Provide an intuitive user interface to upload an image and get the predicted digit.
+- Provide an intuitive user interface to draw/write the digit and get the predicted digit.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
 
